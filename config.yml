@@ -1,0 +1,7 @@
+# Example
+# set real config to os evn # TODO IT will be future
+
+# REAL IMPLEMENTATION
+stripe:
+  public: pk_test_51GuCbAIlZDFgNTUn4kZh3orn95a5LfXU7Ae74gzbCV5OFt6iLc8StWOjKLsQ9ToZnMw678OF8jNQlw7WgSeb4WqL0035qiwu3A
+  secret: sk_test_51GuCbAIlZDFgNTUniUuQ1FxMWTMy9331rOdd8YjlSeL2jJTpNKq2Z9BYR0p6kVBBZFsxi5WSZOrUbxpZfWbQXKAR009cn8W7LW
